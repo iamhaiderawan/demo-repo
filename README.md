@@ -2,4 +2,4 @@
 
 this is the simple program!
 
-Hello world
+Hello world!
